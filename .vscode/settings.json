@@ -1,0 +1,12 @@
+{
+	"editor.tabSize": 4,
+	// "[javascript]": {
+	// 	"editor.formatOnSave": true
+	// },
+	// "[css]": {
+	// 	"editor.formatOnSave": true
+	// },
+	"[html]": {
+		"editor.formatOnSave": true
+	}
+}
